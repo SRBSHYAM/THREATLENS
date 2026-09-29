@@ -1,0 +1,8 @@
+{
+  "name": "Remix Scammer Shield",
+  "description": "AI-powered tool identifying scam messages, suspicious URLs, and phone numbers using real-time risk assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
